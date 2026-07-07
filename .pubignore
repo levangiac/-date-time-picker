@@ -8,3 +8,6 @@ build/
 
 # OS
 .DS_Store
+
+# Keep example/pubspec.lock in package (suppress gitignore warning)
+!example/pubspec.lock
