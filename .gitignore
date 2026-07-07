@@ -4,6 +4,7 @@ build/
 
 # pub
 pubspec.lock
+!example/pubspec.lock
 .flutter-plugins
 .flutter-plugins-dependencies
 
