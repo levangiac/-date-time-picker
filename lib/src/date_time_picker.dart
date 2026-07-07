@@ -89,11 +89,13 @@ class _CustomDateTimePickerState extends State<CustomDateTimePicker>
             const TextStyle(fontWeight: FontWeight.normal, fontSize: 14),
         tabs: [
           Tab(
+            height: kPickerTabBarHeight,
             icon: const Icon(Icons.calendar_today_outlined, size: 18),
             text: locale.dateTabLabel,
             iconMargin: const EdgeInsets.only(bottom: 2),
           ),
           Tab(
+            height: kPickerTabBarHeight,
             icon: const Icon(Icons.access_time_outlined, size: 18),
             text: locale.timeTabLabel,
             iconMargin: const EdgeInsets.only(bottom: 2),
