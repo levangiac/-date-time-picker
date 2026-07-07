@@ -1,0 +1,30 @@
+name: vn_date_time_picker
+description: >-
+  A fully customizable date, time, date-time, and date range picker for Flutter.
+  Supports Vietnamese & English, year grid, haptic feedback, responsive portrait/landscape
+  layout, complete theming (colors, shapes, text styles), and zero external dependencies.
+version: 0.2.0
+homepage: https://github.com/yourusername/vn_date_time_picker
+repository: https://github.com/yourusername/vn_date_time_picker
+issue_tracker: https://github.com/yourusername/vn_date_time_picker/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.27.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+topics:
+  - date-picker
+  - time-picker
+  - calendar
+  - date-range
+  - ui
