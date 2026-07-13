@@ -2,7 +2,7 @@ name: vn_date_time_picker
 description: >-
   Customizable date, time, date-time and date range picker for Flutter.
   Vietnamese & English, haptic feedback, landscape layout, full theming.
-version: 0.2.2
+version: 0.2.3
 homepage: https://github.com/levangiac/-date-time-picker
 repository: https://github.com/levangiac/-date-time-picker
 issue_tracker: https://github.com/levangiac/-date-time-picker/issues
