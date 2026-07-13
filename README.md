@@ -19,7 +19,7 @@ A fully customizable date, time, date-time, and date range picker for Flutter â€
 
 | Date Picker | Time Picker | Range Picker | Year Grid |
 |:-----------:|:-----------:|:------------:|:---------:|
-| _(portrait)_ | _(portrait)_ | _(portrait)_ | _(overlay)_ |
+| ![Date Picker](https://raw.githubusercontent.com/levangiac/-date-time-picker/main/screenshots/date_picker.png) | ![Time Picker](https://raw.githubusercontent.com/levangiac/-date-time-picker/main/screenshots/time_picker.png) | ![Range Picker](https://raw.githubusercontent.com/levangiac/-date-time-picker/main/screenshots/range_picker.png) | ![Year Grid](https://raw.githubusercontent.com/levangiac/-date-time-picker/main/screenshots/year_grid.png) |
 
 > Run `flutter run` inside `example/` to see all pickers on a real device.
 

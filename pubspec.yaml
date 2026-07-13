@@ -27,3 +27,16 @@ topics:
   - calendar
   - date-range
   - ui
+
+# Bỏ comment sau khi đã thêm đủ ảnh vào screenshots/ (xem screenshots/README.md)
+screenshots:
+  - description: "Date picker với infinite scroll và year grid"
+    path: screenshots/date_picker.png
+  - description: "Time picker dạng scroll wheel với haptic feedback"
+    path: screenshots/time_picker.png
+  - description: "Date-time picker dạng tab Date | Time"
+    path: screenshots/date_time_picker.png
+  - description: "Date range picker kiểu Google Calendar"
+    path: screenshots/range_picker.png
+  - description: "Year grid overlay"
+    path: screenshots/year_grid.png
